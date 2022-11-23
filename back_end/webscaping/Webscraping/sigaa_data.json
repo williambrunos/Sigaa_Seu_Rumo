@@ -1,0 +1,361 @@
+{
+    "disciplinas": [
+        "ÁLGEBRALINEAR",
+        "ALGORITMOSEMGRAFOS",
+        "ARQUITETURAEORGANIZACAODECOMPUTADORES",
+        "BANCODEDADOS",
+        "CÁLCULODIFERENCIALEINTEGRALI",
+        "CÁLCULODIFERENCIALEINTEGRALII",
+        "CÁLCULOVETORIAL",
+        "CIÊNCIASTECNOLOGIAESOCIEDADE",
+        "CIRCUITOSELÉTRICOSI",
+        "CIRCUITOSELÉTRICOSII",
+        "COMUNICAÇÃOEEXPRESSAO",
+        "COMUNICAÇÕESANALÓGICASEDIGITAIS",
+        "CONTROLEDESISTEMASDINÂMICOS",
+        "CONTROLEEAUTOMAÇÃOINDUSTRIAL",
+        "DESENHOPARAENGENHARIA",
+        "ELETROMAGNETISMOAPLICADO",
+        "ELETRÔNICADIGITAL",
+        "EMPREENDEDORISMOEADMINISTRAÇÃODEEMPRESAS",
+        "ENGENHARIAAMBIENTAL",
+        "ENGENHARIADESOFTWARE",
+        "ENGENHARIAECONÔMICA",
+        "ESTATÍSTICAECONÔMICAI",
+        "ESTRUTURASDEDADOS",
+        "FÍSICAEXPERIMENTALI",
+        "FÍSICAEXPERIMENTALII",
+        "FÍSICAGERALI",
+        "FÍSICAGERALII",
+        "FÍSICAGERALIII",
+        "FUNDAMENTOSDEADMINISTRAÇÃO",
+        "FUNDAMENTOSDEECONOMIA",
+        "HIGIENEINDUSTRIALESEGURANÇANOTRABALHO",
+        "INTELIGÊNCIACOMPUTACIONAL",
+        "INTRODUÇÃOAENGENHARIA",
+        "LABORATÓRIODECOMUNICAÇÕESI",
+        "MATEMÁTICADISCRETAPARACOMPUTAÇÃO",
+        "MÉTODOSNUMÉRICOS",
+        "MICROPROCESSADORES",
+        "PARADIGMASDELINGUAGEMDEPROGRAMAÇÃO",
+        "PRINCÍPIOSDECOMUNICAÇÕES",
+        "PROBABILIDADEEESTATÍSTICA",
+        "PROCESSAMENTODIGITALDESINAIS",
+        "PROGRAMAÇÃOCOMPUTACIONAL",
+        "QUALIDADEDESOFTWARE",
+        "QUÍMICAGERAL",
+        "REDESDECOMPUTADORES",
+        "SERIESEEQUAÇÕESDIFERENCIAIS",
+        "SISTEMASDECOMUNICAÇÕESVIARÁDIO",
+        "SISTEMASEMBARCADOS",
+        "SISTEMASLINEARES",
+        "SISTEMASOPERACIONAIS",
+        "SOFTWAREEMTEMPOREAL",
+        "TÉCNICASDEPROGRAMAÇÃO",
+        "TECNOLOGIASWEB",
+        "TEORIADOSAUTOMATOSELINGUAGENSFORMAIS",
+        "VARIAVEISCOMPLEXAS"
+    ],
+    "professores": [],
+    "horarios": [
+        [
+            "QUA 08:00-10:00",
+            "SEX 08:00-10:00"
+        ],
+        [
+            "SEG 10:00-12:00",
+            "QUA 10:00-12:00"
+        ],
+        [
+            "SEG 15:30-17:30",
+            "QUA 15:30-17:30"
+        ],
+        [
+            "QUA 15:30-17:30",
+            "SEX 15:30-17:30"
+        ],
+        [
+            "SEG 13:30-15:30",
+            "QUA 13:30-15:30"
+        ],
+        [
+            "SEG 10:00-12:00",
+            "QUA 10:00-12:00"
+        ],
+        [
+            "TER 15:30-17:30",
+            "QUI 15:30-17:30"
+        ],
+        [
+            "TER 13:30-15:30",
+            "QUI 13:30-15:30"
+        ],
+        [
+            "SEG 13:30-15:30",
+            "QUA 13:30-15:30"
+        ],
+        [
+            "SEG 10:00-12:00",
+            "QUA 10:00-12:00"
+        ],
+        [
+            "TER 13:30-15:30",
+            "QUI 13:30-15:30"
+        ],
+        [
+            "SEX 10:00-12:00"
+        ],
+        [
+            "TER 08:00-10:00",
+            "TER 13:30-15:30",
+            "QUI 08:00-10:00"
+        ],
+        [
+            "TER 08:00-10:00",
+            "QUA 15:30-17:30",
+            "QUI 08:00-10:00"
+        ],
+        [
+            "TER 08:00-10:00",
+            "QUI 08:00-10:00",
+            "QUI 13:30-15:30"
+        ],
+        [
+            "SEG 13:30-15:30",
+            "TER 15:30-17:30",
+            "QUI 15:30-17:30"
+        ],
+        [
+            "QUI 13:30-17:30"
+        ],
+        [
+            "TER 10:00-12:00",
+            "QUI 10:00-12:00"
+        ],
+        [
+            "TER 08:00-10:00",
+            "TER 13:30-15:30",
+            "QUI 08:00-10:00"
+        ],
+        [
+            "TER 08:00-10:00",
+            "QUI 08:00-10:00",
+            "QUI 13:30-15:30"
+        ],
+        [
+            "TER 18:00-20:00",
+            "QUA 18:00-20:00"
+        ],
+        [
+            "QUA 13:30-17:30"
+        ],
+        [
+            "SEX 08:00-12:00"
+        ],
+        [
+            "SEG 08:00-10:00",
+            "QUA 08:00-10:00",
+            "SEX 08:00-10:00"
+        ],
+        [
+            "TER 10:00-12:00",
+            "TER 18:00-20:00",
+            "QUI 10:00-12:00"
+        ],
+        [
+            "TER 10:00-12:00",
+            "QUA 18:00-20:00",
+            "QUI 10:00-12:00"
+        ],
+        [
+            "SEG 15:30-17:30",
+            "TER 10:00-12:00",
+            "QUI 10:00-12:00"
+        ],
+        [
+            "SEG 08:00-10:00",
+            "QUA 08:00-10:00"
+        ],
+        [
+            "QUA 08:00-11:00"
+        ],
+        [
+            "TER 08:00-10:00",
+            "QUI 08:00-10:00"
+        ],
+        [
+            "SEG 10:00-12:00"
+        ],
+        [
+            "SEG 08:00-10:00"
+        ],
+        [
+            "QUI 18:00-22:00"
+        ],
+        [
+            "SEG 10:00-12:00",
+            "QUA 10:00-12:00"
+        ],
+        [
+            "TER 15:30-17:30"
+        ],
+        [
+            "SEG 08:00-10:00"
+        ],
+        [
+            "QUI 15:30-17:30"
+        ],
+        [
+            "SEX 10:00-12:00"
+        ],
+        [
+            "QUA 08:00-10:00"
+        ],
+        [
+            "TER 13:30-15:30",
+            "QUI 13:30-15:30"
+        ],
+        [
+            "TER 13:30-15:30",
+            "QUI 13:30-15:30"
+        ],
+        [
+            "TER 10:00-12:00",
+            "QUI 10:00-12:00"
+        ],
+        [
+            "TER 15:30-17:30",
+            "QUI 15:30-17:30"
+        ],
+        [
+            "QUI 15:30-17:30"
+        ],
+        [
+            "QUA 13:30-15:30"
+        ],
+        [
+            "SEX 10:00-12:00"
+        ],
+        [
+            "QUI 08:00-10:00"
+        ],
+        [
+            "SEX 08:00-10:00"
+        ],
+        [
+            "SEG 08:00-10:00",
+            "QUA 08:00-10:00"
+        ],
+        [
+            "QUA 15:30-17:30",
+            "SEX 10:00-12:00"
+        ],
+        [
+            "SEG 10:00-12:00",
+            "QUA 10:00-12:00"
+        ],
+        [
+            "QUA 13:30-15:30",
+            "SEX 13:30-15:30"
+        ],
+        [
+            "SEG 13:30-15:30",
+            "QUA 13:30-15:30"
+        ],
+        [
+            "QUA 13:30-15:30",
+            "QUI 08:00-10:00",
+            "SEX 13:30-15:30"
+        ],
+        [
+            "QUA 13:30-15:30",
+            "SEX 08:00-10:00",
+            "SEX 13:30-15:30"
+        ],
+        [
+            "QUA 13:30-15:30",
+            "SEX 10:00-12:00",
+            "SEX 13:30-15:30"
+        ],
+        [
+            "QUA 10:00-12:00",
+            "SEX 10:00-12:00"
+        ],
+        [
+            "SEG 13:30-15:30",
+            "QUA 13:30-15:30"
+        ],
+        [
+            "TER 08:00-10:00",
+            "QUI 08:00-10:00"
+        ],
+        [
+            "TER 10:00-12:00",
+            "QUI 10:00-12:00"
+        ],
+        [
+            "SEG 08:00-10:00",
+            "SEG 13:30-17:30"
+        ],
+        [
+            "SEG 13:30-17:30",
+            "QUA 08:00-10:00"
+        ],
+        [
+            "SEG 15:30-17:30",
+            "QUA 13:30-17:30"
+        ],
+        [
+            "SEG 15:30-17:30",
+            "TER 15:30-17:30"
+        ],
+        [
+            "QUA 15:30-17:30",
+            "SEX 13:30-17:30"
+        ],
+        [
+            "SEG 08:00-10:00",
+            "QUA 08:00-10:00"
+        ],
+        [
+            "SEG 15:30-17:30",
+            "QUA 15:30-17:30"
+        ],
+        [
+            "SEG 08:00-10:00",
+            "QUA 08:00-10:00"
+        ],
+        [
+            "TER 15:30-17:30",
+            "QUI 15:30-17:30"
+        ],
+        [
+            "TER 13:30-15:30",
+            "QUI 13:30-15:30"
+        ],
+        [
+            "SEG 10:00-12:00",
+            "QUA 10:00-12:00"
+        ],
+        [
+            "TER 10:00-12:00",
+            "QUI 10:00-12:00"
+        ],
+        [
+            "TER 13:30-15:30",
+            "QUI 13:30-15:30"
+        ],
+        [
+            "TER 10:00-12:00",
+            "QUI 10:00-12:00"
+        ],
+        [
+            "TER 13:30-15:30",
+            "QUI 13:30-15:30"
+        ],
+        [
+            "TER 15:30-17:30",
+            "QUI 15:30-17:30"
+        ]
+    ]
+}
